@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title": "Template Modpack",
+        "author": "Your Name Here",
+        "downloads": "0",
+        "version": "1.20.1",
+        "category": "adventure",
+        "desc": "This is a template. Copy this block to add a new modpack. Replace the title, author, and description with your own details.",
+        "image": "https://images.unsplash.com/photo-1621252179027-94459d27d3ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+        "downloadUrl": "modpacks/template.zip"
+    }
+]
